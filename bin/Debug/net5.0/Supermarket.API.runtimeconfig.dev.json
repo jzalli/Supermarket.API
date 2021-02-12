@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jzall\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jzall\\.nuget\\packages"
+    ]
+  }
+}
